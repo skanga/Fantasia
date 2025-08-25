@@ -1,0 +1,80 @@
+lore:
+  # Core Fantasy Elements
+  fantasy: "Fantasy stories often involve magic, mythical creatures, and medieval settings."
+  magic: "Magic in fantasy often follows specific rules and systems. It can be elemental, divine, arcane, or nature-based."
+  quest: "Quests typically involve a hero journeying to achieve an important goal, facing trials and discovering inner strength."
+  
+  # Characters & Classes
+  knight: "Knights are warriors who follow a code of chivalry, sworn to protect the innocent and uphold justice."
+  wizard: "Wizards are powerful magic users who study arcane arts, wielding spells through knowledge and preparation."
+  warrior: "Warriors are skilled fighters who rely on strength, tactics, and weapons mastery in combat."
+  rogue: "Rogues are stealthy individuals who rely on cunning, agility, and stealth to overcome obstacles."
+  ranger: "Rangers are skilled woodsmen who protect wilderness areas and track dangerous creatures."
+  paladin: "Paladins are holy warriors who channel divine power to fight evil and heal the wounded."
+  bard: "Bards are storytellers and musicians who use words and music to inspire allies and influence others."
+  cleric: "Clerics serve deities and channel divine magic for healing, protection, and smiting evil."
+  
+  # Creatures & Monsters
+  dragon: "Dragons are powerful, fire-breathing creatures that hoard treasure and possess ancient wisdom."
+  goblin: "Goblins are small, mischievous creatures that live in tribes and love to cause trouble."
+  orc: "Orcs are brutal, warlike creatures known for their strength and savage fighting style."
+  troll: "Trolls are large, regenerating monsters that dwell in caves and under bridges."
+  giant: "Giants are massive humanoids with immense strength who often live in mountains or clouds."
+  vampire: "Vampires are undead creatures that feed on blood and possess supernatural powers."
+  werewolf: "Werewolves are cursed beings who transform into wolves under the full moon."
+  demon: "Demons are evil beings from other planes who seek to corrupt and destroy."
+  angel: "Angels are celestial beings of pure good who serve divine powers."
+  phoenix: "Phoenixes are immortal firebirds that resurrect from their own ashes."
+  
+  # Locations & Environments
+  forest: "Dark forests are dangerous places filled with unknown creatures, ancient secrets, and natural magic."
+  castle: "Castles are fortified structures that serve as strongholds for nobles and centers of power."
+  dungeon: "Dungeons are dark underground chambers often filled with monsters, traps, and treasure."
+  tavern: "Taverns are gathering places where adventurers meet, share stories, and find new quests."
+  tower: "Towers are tall structures often used by wizards for magical research and observation."
+  mountain: "Mountains are treacherous peaks that hide ancient ruins, dragon lairs, and mystical secrets."
+  cave: "Caves are natural underground formations that shelter monsters and hide forgotten treasures."
+  ruins: "Ancient ruins hold the remnants of lost civilizations and powerful magical artifacts."
+  village: "Villages are small communities where common folk live simple lives away from grand adventures."
+  city: "Cities are large settlements with complex politics, guilds, and opportunities for adventure."
+  
+  # Weapons & Equipment
+  sword: "Swords are the primary weapons of knights and warriors, symbols of honor and skill."
+  bow: "Bows are ranged weapons favored by rangers and hunters for their precision and stealth."
+  staff: "Staffs are magical implements used by wizards to focus and amplify their spells."
+  shield: "Shields provide protection in combat and can be enchanted with defensive magic."
+  armor: "Armor protects warriors in battle and can be crafted from various materials and enchantments."
+  dagger: "Daggers are small, quick weapons perfect for rogues and assassins."
+  axe: "Axes are heavy weapons that deal devastating blows and are favored by barbarians."
+  hammer: "War hammers are blunt weapons that can crush armor and bones alike."
+  
+  # Magical Items & Artifacts
+  artifact: "Artifacts are legendary magical items of immense power created by gods or ancient wizards."
+  potion: "Potions are magical brews that provide temporary effects like healing, strength, or invisibility."
+  scroll: "Scrolls contain written spells that can be cast by anyone who can read them."
+  ring: "Magical rings grant their wearers various powers and are easily concealed."
+  amulet: "Amulets are protective charms worn around the neck to ward off evil or grant abilities."
+  crystal: "Magical crystals store energy and can power spells or magical devices."
+  orb: "Orbs are spherical magical items used for scrying, communication, or spell storage."
+  
+  # Magic Schools & Systems
+  elemental: "Elemental magic harnesses the power of fire, water, earth, and air."
+  necromancy: "Necromancy is the dark art of communicating with and controlling the dead."
+  divination: "Divination magic reveals hidden knowledge and glimpses of the future."
+  illusion: "Illusion magic creates false images and tricks the senses."
+  enchantment: "Enchantment magic influences minds and emotions of others."
+  transmutation: "Transmutation magic changes the properties of objects and creatures."
+  conjuration: "Conjuration magic summons creatures and objects from other planes."
+  evocation: "Evocation magic creates raw magical energy like fireballs and lightning bolts."
+  
+  # Themes & Story Elements
+  prophecy: "Prophecies are ancient predictions that often guide heroes on their destined paths."
+  curse: "Curses are malevolent magical effects that bring misfortune until they are broken."
+  blessing: "Blessings are beneficial magical effects granted by gods or powerful beings."
+  destiny: "Destiny is the idea that certain events are predetermined and cannot be avoided."
+  honor: "Honor is a code of conduct that guides noble characters in their actions."
+  sacrifice: "Sacrifice involves giving up something valuable for the greater good."
+  redemption: "Redemption is the process of atoning for past mistakes and finding forgiveness."
+  betrayal: "Betrayal occurs when trust is broken, often driving major plot developments."
+  transformation: "Transformation involves fundamental change in character or form."
+  discovery: "Discovery reveals hidden truths that change the course of the story."
