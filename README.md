@@ -1,8 +1,8 @@
 # Collaborative AI Storytelling System
 
-A sophisticated multi-agent storytelling system that uses specialized AI agents to collaboratively generate high-quality fantasy stories. The system employs a controlled workflow with configurable limits to prevent runaway costs while ensuring coherent, engaging narratives.
+A sophisticated multi-agent storytelling system built with CrewAI, LangChain and LangGraph that uses specialized AI agents to collaboratively generate high-quality fantasy stories. The system employs a controlled workflow with configurable limits to prevent runaway costs while ensuring coherent, engaging narratives.
 
-## 🌟 Features
+## Features
 
 ### Multi-Agent Collaboration
 - **Writer Agent**: Generates engaging narrative scenes with rich descriptions
@@ -26,13 +26,24 @@ A sophisticated multi-agent storytelling system that uses specialized AI agents 
 - **Multiple Output Formats**: Story text and art prompts for visualization
 - **Fallback Mechanisms**: Robust error handling ensures story completion
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
-
+- Create a virtual environment
+```bash
+python -m venv .venv 
+```
+- Activate the virtual environment
+```bash
+# Linux
+source .venv/bin/activate  
+# Windows
+.venv\Scripts\activate
+```
+- Install dependencies:
 ```bash
 # Required Python packages
-pip install langchain langchain-openai crewai langgraph python-dotenv pyyaml
+pip install -r requirements.txt
 ```
 
 ### Environment Setup
@@ -68,7 +79,7 @@ The system will:
 5. Log all activities to both console and file
 6. Respect LLM call limits to control costs
 
-## 📊 System Architecture
+## System Architecture
 
 ### Workflow Overview
 
@@ -130,7 +141,7 @@ The system maintains a comprehensive story state:
 }
 ```
 
-## ⚙️ Configuration Options
+## Configuration Options
 
 ### Environment Variables
 
@@ -172,7 +183,7 @@ lore:
   # Add your own lore entries...
 ```
 
-## 📝 Output Examples
+## Output Examples
 
 ### Story Generation
 
@@ -194,7 +205,7 @@ mysterious fog at ground level, a cloaked figure holding an enchanted
 lantern, dramatic lighting with deep shadows and ethereal glow...
 ```
 
-## 🔍 Monitoring and Debugging
+## Monitoring and Debugging
 
 ### Comprehensive Logging
 
@@ -224,7 +235,7 @@ Scene 2 completed successfully (used 7 LLM calls)
 Scene 3 completed successfully (used 4 LLM calls)
 ```
 
-## 🛡️ Cost Control Features
+## Cost Control Features
 
 ### Circuit Breaker Pattern
 
@@ -243,7 +254,7 @@ When limits are reached, the system:
 - Provides coherent story completion
 - Logs cost-saving decisions
 
-## 🔧 Development
+## Development
 
 ### Project Structure
 
@@ -290,7 +301,7 @@ To add a new specialized agent:
 4. Update the controlled generation loop
 5. Add appropriate logging and limits
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Common Issues
 
@@ -322,7 +333,7 @@ ls -la story_generation_*.log | tail -1
 tail -f story_generation_$(date +%Y%m%d)_*.log
 ```
 
-## 🤝 Contributing
+## Contributing
 
 ### Code Quality Standards
 
@@ -340,11 +351,11 @@ The project follows these principles:
 - Input validation prevents injection attacks
 - Error messages don't expose internal details
 
-## 📄 License
+## License
 
-This project is provided as-is for educational and research purposes.
+This project is provided as-is for educational and research purposes. Refer to license.txt for license details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Built with:
 - [LangChain](https://langchain.com/) - LLM framework
